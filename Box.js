@@ -15,7 +15,6 @@ class Box {
     rectMode(CENTER);
     strokeWeight(3.5);
     stroke("black")
-    //fill(232, 206, 237);
     rect(pos.x, pos.y, this.width, this.height);
   }
-};
+}
